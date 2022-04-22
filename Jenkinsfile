@@ -23,3 +23,5 @@ pipeline {
 				sh 'printf ${ADMIN_CREDENTIALS}'
 			}
 		}
+	}
+}
